@@ -1,4 +1,5 @@
-<h1 align="center">Hello 👋, I'm Tate Mouser</h1>
+<h1 align="center">Hello, I'm Tate Mouser</h1>
+
 <h3 align="center">Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://csmworld.com/wp-content/uploads/2021/06/loopingboard4.gif">
 
