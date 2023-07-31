@@ -3,13 +3,13 @@
 <h3 align="center">Computer Science Student</h3>
 <img align="right" alt="Coding" width="300" src="https://csmworld.com/wp-content/uploads/2021/06/loopingboard4.gif">
 
+- 🌟  Featured Projects [SentimentAnalysis](https://github.com/tatemouser/SentimentAnalysis.git) / [InStoreRobot](https://github.com/tatemouser/InStoreRobot.git)
+  
 - 🔭 I’m currently working on [KeyboardAlgorithm](https://github.com/tatemouser/NoKeyboardAlgorithm.git)
 
 - 🌱 I’m currently learning **OpenCV and HTML/CSS**
 
 - 🧹 I’m cleaning up [PokerGame](https://github.com/tatemouser/PokerGame.git)
-
-- 💬 Ask me about **Unity**
 
 - 📫 How to reach me **tatesmouser@gmail.com**
 
