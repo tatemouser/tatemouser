@@ -1,5 +1,4 @@
 <h1 align="center">About Me</h1>
-
 <h3 align="center">Computer Science Student</h3>
 <img align="right" alt="Coding" width="300" src="https://csmworld.com/wp-content/uploads/2021/06/loopingboard4.gif">
 
