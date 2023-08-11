@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://csmworld.com/wp-content/uploads/2021/06/loopingboard4.gif">
 
 
-- 🌟  Featured Projects [KeyboardAlgorithm](https://github.com/tatemouser/NoKeyboardAlgorithm.git) / [SentimentAnalysis](https://github.com/tatemouser/SentimentAnalysis.git) / [InStoreRobot](https://github.com/tatemouser/InStoreRobot.git)
+- 🌟  Featured Projects [KeyboardAlgorithm](https://github.com/tatemouser/NoKeyboardAlgorithm.git) / [InStoreRobot](https://github.com/tatemouser/InStoreRobot.git) / [SentimentAnalysis](https://github.com/tatemouser/SentimentAnalysis.git)
 
 - 🔭 I’m currently working on   [GameOfChess](https://github.com/tatemouser/GameOfChess.git)
 
