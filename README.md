@@ -5,9 +5,9 @@
 - 🌟  Featured Projects [KeyboardAlgorithm](https://github.com/tatemouser/NoKeyboardAlgorithm.git) / [InStoreRobot](https://github.com/tatemouser/InStoreRobot.git) / [SentimentAnalysis](https://github.com/tatemouser/SentimentAnalysis.git)
 
 
-- 🔭 I’m currently working on   [GameOfChess](https://github.com/tatemouser/GameOfChess.git)
+- 🔭 I’m currently working on creating an app.
 
-- 🌱 I’m currently learning **OpenCV and HTML/CSS**
+- 🌱 I’m currently learning **Swift and HTML/CSS**
 
 - 🧹 I’m cleaning up [PokerGame](https://github.com/tatemouser/PokerGame.git)
 
