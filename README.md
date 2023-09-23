@@ -5,7 +5,7 @@
 - 🌟  Featured Projects [KeyboardAlgorithm](https://github.com/tatemouser/NoKeyboardAlgorithm.git) / [InStoreRobot](https://github.com/tatemouser/InStoreRobot.git) / [SentimentAnalysis](https://github.com/tatemouser/SentimentAnalysis.git)
 
 
-- 🔭 I’m currently working on building an app.
+- 🔭 I’m currently working on building an app. [PhotoTrading](https://github.com/tatemouser/PhotoTrading)
 
 - 🌱 I’m currently learning **Swift and HTML/CSS**
 
