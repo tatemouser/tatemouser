@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on building an app. [PhotoTrading](https://github.com/tatemouser/PhotoTrading)
 
-- 🌱 I’m currently learning **Swift and Unix**
+- 🌱 I’m currently learning **Swift and C#**
 
 - 🧹 I’m cleaning up [PokerGame](https://github.com/tatemouser/PokerGame.git)
 
