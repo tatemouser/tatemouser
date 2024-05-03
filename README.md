@@ -2,14 +2,14 @@
 <h3 align="center">Computer Science Student</h3>
 <img align="right" alt="Coding" width="300" src="https://csmworld.com/wp-content/uploads/2021/06/loopingboard4.gif">
 
-- 🌟  Featured Projects [KeyboardAlgorithm](https://github.com/tatemouser/NoKeyboardAlgorithm.git) / [InStoreRobot](https://github.com/tatemouser/InStoreRobot.git) / [SentimentAnalysis](https://github.com/tatemouser/SentimentAnalysis.git)
+- 🌟  Featured Projects [SQLite Database](https://github.com/tatemouser/sqlite-db)
+/ [KeyboardAlgorithm](https://github.com/tatemouser/NoKeyboardAlgorithm.git) / [InStoreRobot](https://github.com/tatemouser/InStoreRobot.git)
 
+- 💻 My new website https://tatemouser.com/
 
 - 🔭 I’m currently working on building an app. [PhotoTrading](https://github.com/tatemouser/PhotoTrading)
 
 - 🌱 I’m currently learning **C# and .NET**
-
-- 🧹 I’m cleaning up [PokerGame](https://github.com/tatemouser/PokerGame.git)
 
 - 📫 How to reach me **tatesmouser@gmail.com**
 
@@ -17,7 +17,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>   </a> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
